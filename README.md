@@ -1,2 +1,2 @@
 # Certification
-Both my finance and CSC certs
+Both my Finance and CSC certs
